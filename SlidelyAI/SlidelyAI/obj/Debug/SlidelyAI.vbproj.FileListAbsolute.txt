@@ -1,0 +1,15 @@
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\bin\Debug\SlidelyAI.exe.config
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\bin\Debug\SlidelyAI.exe
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\bin\Debug\SlidelyAI.pdb
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\bin\Debug\SlidelyAI.xml
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\obj\Debug\SlidelyAI.vbproj.AssemblyReference.cache
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\obj\Debug\SlidelyAI.Form1.resources
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\obj\Debug\SlidelyAI.Label.resources
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\obj\Debug\SlidelyAI.Form2.resources
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\obj\Debug\SlidelyAI.Form3.resources
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\obj\Debug\SlidelyAI.Resources.resources
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\obj\Debug\SlidelyAI.vbproj.GenerateResource.cache
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\obj\Debug\SlidelyAI.vbproj.CoreCompileInputs.cache
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\obj\Debug\SlidelyAI.exe
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\obj\Debug\SlidelyAI.xml
+C:\Users\abhig\source\repos\SlidelyAI\SlidelyAI\obj\Debug\SlidelyAI.pdb
