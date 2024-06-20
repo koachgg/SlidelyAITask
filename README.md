@@ -100,6 +100,7 @@ npm run build
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
   
+
 ### Explanation:
 - **Description**: Brief overview of the project.
 - **Setup Instructions**: Detailed steps to clone the repository, navigate to the project directory, install dependencies, and build the project.
@@ -107,5 +108,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - **Running the Server**: Command to start the development server and the URL where the server will be running.
 - **Endpoints**: Detailed information on how to use the available endpoints with examples.
 - **Database**: Information about the database file used for storing submissions.
-- **Development
+- **Development Notes**: Additional notes for developers to ensure a smooth development process.
+- **License**: Standard practice to include the license information.
 
+This README provides all the necessary information to set up, run, and use the backend server, making it easy for anyone to get started with your project.
+
+## This backend project is build as a task for Slidely AI - Internship by Belo Abhigyan
